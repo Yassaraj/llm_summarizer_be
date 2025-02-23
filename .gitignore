@@ -1,0 +1,17 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+
+# Ignore IDE/editor-specific files
+.idea/
+.vscode/
+
+# Ignore data & PDFs (if they contain sensitive info)
+data/
+pdfs/
