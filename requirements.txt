@@ -5,4 +5,3 @@ fastapi
 uvicorn
 python-multipart
 uvicorn
-main:app --reload --port 8000
